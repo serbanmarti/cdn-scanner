@@ -1,0 +1,30 @@
+{
+  "AKAMAI": [
+    "x-akamai-request-id"
+  ],
+  "AZURE_CDN": [
+    "x-ms-blob-type"
+  ],
+  "CHINACACHE": [
+    "powered-by-chinacache"
+  ],
+  "CLOUDFLARE": [
+    "cf-ray"
+  ],
+  "CLOUDFRONT": [
+    "x-amz-cf-id",
+    "x-amz-id-2"
+  ],
+  "FASTLY": [
+    "x-timer"
+  ],
+  "GOOGLE_CLOUD_CDN": [
+    "x-goog-generation"
+  ],
+  "ONAPP": [
+    "x-edge-location"
+  ],
+  "SKYPARK": [
+    "x-cdn-provider"
+  ]
+}

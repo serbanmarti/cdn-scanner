@@ -1,0 +1,170 @@
+{
+  "AFXCDN": [
+    ".afxcdn.net"
+  ],
+  "AKAMAI": [
+    ".akadns.net",
+    ".akamai.net",
+    ".akamaiedge.net",
+    ".akamaitechnologies.com"
+  ],
+  "ALIMAMA": [
+    ".gslb.tbcache.com"
+  ],
+  "ANANKE": [
+    ".anankecdn.com.br"
+  ],
+  "AT&T": [
+    ".att-dsa.net"
+  ],
+  "AZION": [
+    ".azioncdn.net"
+  ],
+  "AZURE_CDN": [
+    ".azureedge.net",
+    ".vo.msecnd.net"
+  ],
+  "BELUGACDN": [
+    ".belugacdn.com"
+  ],
+  "BLUE_HAT_NETWORK": [
+    ".bluehatnetwork.com"
+  ],
+  "BUNNYCDN": [
+    ".b-cdn.net"
+  ],
+  "CACHEFLY": [
+    ".cachefly.net"
+  ],
+  "CDN77": [
+    ".cdn77.net",
+    ".cdn77.org"
+  ],
+  "CDNETWORKS": [
+    ".cdngc.net",
+    ".gccdn.cn",
+    ".gccdn.net",
+    ".panthercdn.com"
+  ],
+  "CDNIFY": [
+    ".cdnify.io"
+  ],
+  "CHINACACHE": [
+    ".c3cache.net",
+    ".c3cdn.net",
+    ".ccgslb.com",
+    ".ccgslb.net",
+    ".chinacache.net"
+  ],
+  "CHINANETCENTER": [
+    ".lxdns.com",
+    ".mwcloudcdn.com",
+    ".speedcdns.com"
+  ],
+  "CLOUDFLARE": [
+    ".cloudflare.com",
+    ".cloudflare.net"
+  ],
+  "CLOUDFRONT": [
+    ".cloudfront.net"
+  ],
+  "EDGECAST": [
+    ".adn.",
+    ".edgecastcdn.net",
+    ".systemcdn.net",
+    ".wac.",
+    ".wpc."
+  ],
+  "FASTLY": [
+    ".fastly.com",
+    ".fastly.net",
+    ".fastlylb.net"
+  ],
+  "G-CORE": [
+    "d.gcdn.co"
+  ],
+  "GOOGLE_CLOUD_CDN": [
+    ".google.",
+    ".googledomains.com",
+    ".googlesyndication.",
+    ".googleusercontent.com",
+    ".l.doubleclick.net",
+    ".youtube."
+  ],
+  "HIBERNIA": [
+    ".hiberniacdn.com"
+  ],
+  "HIGHWINDS": [
+    ".hwcdn.net"
+  ],
+  "INCAPSULA": [
+    ".incapdns.net"
+  ],
+  "INSTARTLOGIC": [
+    ".inscname.net",
+    ".insnw.net"
+  ],
+  "INTERNAP": [
+    ".internapcdn.net"
+  ],
+  "KEYCDN": [
+    ".kxcdn.com"
+  ],
+  "KINGSOFT": [
+    ".ksyuncdn.com"
+  ],
+  "LEASEWEB_CDN": [
+    ".lswcdn.net"
+  ],
+  "LEVEL3": [
+    ".footprint.net"
+  ],
+  "LIMELIGHT": [
+    ".lldns.net",
+    ".llnwd.net"
+  ],
+  "MAXCDN": [
+    ".netdna.com",
+    ".netdna-cdn.com",
+    ".netdna-ssl.com"
+  ],
+  "MEDIANOVA": [
+    ".mncdn.com"
+  ],
+  "MIRROR_IMAGE": [
+    ".instacontent.net",
+    ".mirror-image.net",
+    ".cap-mii.net"
+  ],
+  "REFLECTED_NETWORKS": [
+    ".rncdn1.com"
+  ],
+  "SIMPLE_CDN": [
+    ".simplecdn.net"
+  ],
+  "STACKPATH": [
+    ".stackpathdns.com"
+  ],
+  "SWIFTCDN": [
+    ".swiftcdn1.com"
+  ],
+  "SWIFTSERVE": [
+    ".swiftserve.com"
+  ],
+  "TAOBAO": [
+    ".gslb.taobao.com"
+  ],
+  "TATA_COMMUNICATIONS": [
+    ".cdn.bitgravity.com"
+  ],
+  "TELEFONICA": [
+    ".cdn.telefonica.com"
+  ],
+  "YAHOO": [
+    ".ay1.b.yahoo.com",
+    ".yimg."
+  ],
+  "ZENEDGE": [
+    ".zenedge.net"
+  ]
+}
