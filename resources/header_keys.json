@@ -5,6 +5,9 @@
   "AZURE_CDN": [
     "x-ms-blob-type"
   ],
+  "CHINACACHE": [
+    "powered-by-chinacache"
+  ],
   "CLOUDFLARE": [
     "cf-ray"
   ],
@@ -17,5 +20,11 @@
   ],
   "GOOGLE_CLOUD_CDN": [
     "x-goog-generation"
+  ],
+  "ONAPP": [
+    "x-edge-location"
+  ],
+  "SKYPARK": [
+    "x-cdn-provider"
   ]
 }
